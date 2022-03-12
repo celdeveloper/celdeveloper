@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celdeveloper
 - 👀 I’m interested in building my web development portfolio
-- 🌱 I’m currently learning HTML5,CSS2/3 and MERN 
+- 🌱 I’m currently learning JavaScript and MERN 
 - 💞️ I’m looking to collaborate on projects with web developers
 - 📫 I can be reach at celdeveloper87@gmail.com
 
